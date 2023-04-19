@@ -1,4 +1,4 @@
-package de.tum.in.ase.pse;
+package template_pattern;
 
 import java.util.HashSet;
 import java.util.Set;

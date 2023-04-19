@@ -1,4 +1,4 @@
-package de.tum.in.ase.pse;
+package template_pattern;
 import java.net.URL;
 public class VirtualTutorGroupMeeting extends TutorGroupMeeting {
 	private final URL url;

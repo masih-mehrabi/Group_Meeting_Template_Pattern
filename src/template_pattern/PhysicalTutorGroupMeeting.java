@@ -1,4 +1,4 @@
-package de.tum.in.ase.pse;
+package template_pattern;
 
 public class PhysicalTutorGroupMeeting extends TutorGroupMeeting {
 	private final String room;

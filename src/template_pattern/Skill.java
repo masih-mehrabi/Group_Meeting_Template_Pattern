@@ -1,4 +1,4 @@
-package de.tum.in.ase.pse;
+package template_pattern;
 
 public class Skill {
 
